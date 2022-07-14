@@ -1,0 +1,8 @@
+Destaques
+
+Git: sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+Link para download Git: https://git-scm.com/downloads
+
+Github: plataforma de hospedagem de código-fonte e arquivos. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+Página web Github:https://github.com/
+
