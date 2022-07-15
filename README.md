@@ -1,7 +1,7 @@
 # Repositorio de Compartilhamento de Progresso
 Sejam bem vindos!
 
-Este será um espaço para eu compartilhar anotações, exercícios e aprendizagem sobre tecnologia.
+Este será um espaço de compartilhamento de anotações, exercícios e aprendizagem sobre tecnologia.
 
 # Links úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
