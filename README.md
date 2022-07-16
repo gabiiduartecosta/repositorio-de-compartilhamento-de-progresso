@@ -1,4 +1,4 @@
-# Repositorio de Compartilhamento de Progresso
+# Repositório de Compartilhamento de Progresso
 Sejam bem vindos!
 
 Este será um espaço de compartilhamento de anotações, exercícios e aprendizagem sobre tecnologia.
