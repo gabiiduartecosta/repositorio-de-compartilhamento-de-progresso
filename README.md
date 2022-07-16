@@ -7,3 +7,5 @@ Este será um espaço de compartilhamento de anotações, exercícios e aprendiz
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [Portugol WebStudio](https://portugol-webstudio.cubos.io/ide)
+
+[Download Git - Windows, Linux/Unix e macOS](https://git-scm.com/downloads)
